@@ -1,0 +1,200 @@
+[
+  {
+    "kanji": {
+      "character": "織",
+      "stroke": 18
+    },
+    "radical": {
+      "character": "",
+      "stroke": 6,
+      "order": 158
+    }
+  },
+  {
+    "kanji": {
+      "character": "押",
+      "stroke": 8
+    },
+    "radical": {
+      "character": "⺘",
+      "stroke": 3,
+      "order": 77
+    }
+  },
+  {
+    "kanji": {
+      "character": "小",
+      "stroke": 3
+    },
+    "radical": {
+      "character": "⼩",
+      "stroke": 3,
+      "order": 50
+    }
+  },
+  {
+    "kanji": {
+      "character": "落",
+      "stroke": 12
+    },
+    "radical": {
+      "character": "⺾",
+      "stroke": 3,
+      "order": 71
+    }
+  },
+  {
+    "kanji": {
+      "character": "老",
+      "stroke": 6
+    },
+    "radical": {
+      "character": "⺹",
+      "stroke": 4,
+      "order": 119
+    }
+  },
+  {
+    "kanji": {
+      "character": "生",
+      "stroke": 5
+    },
+    "radical": {
+      "character": "⽣",
+      "stroke": 5,
+      "order": 126
+    }
+  },
+  {
+    "kanji": {
+      "character": "負",
+      "stroke": 9
+    },
+    "radical": {
+      "character": "⾙",
+      "stroke": 7,
+      "order": 187
+    }
+  },
+  {
+    "kanji": {
+      "character": "居",
+      "stroke": 8
+    },
+    "radical": {
+      "character": "⼫",
+      "stroke": 3,
+      "order": 53
+    }
+  },
+  {
+    "kanji": {
+      "character": "折",
+      "stroke": 7
+    },
+    "radical": {
+      "character": "⺘",
+      "stroke": 3,
+      "order": 77
+    }
+  },
+  {
+    "kanji": {
+      "character": "緒",
+      "stroke": 14
+    },
+    "radical": {
+      "character": "",
+      "stroke": 6,
+      "order": 158
+    }
+  },
+  {
+    "kanji": {
+      "character": "下",
+      "stroke": 3
+    },
+    "radical": {
+      "character": "⼀",
+      "stroke": 1,
+      "order": 1
+    }
+  },
+  {
+    "kanji": {
+      "character": "降",
+      "stroke": 10
+    },
+    "radical": {
+      "character": "⻖",
+      "stroke": 3,
+      "order": 74
+    }
+  },
+  {
+    "kanji": {
+      "character": "置",
+      "stroke": 13
+    },
+    "radical": {
+      "character": "⺫",
+      "stroke": 5,
+      "order": 150
+    }
+  },
+  {
+    "kanji": {
+      "character": "追",
+      "stroke": 9
+    },
+    "radical": {
+      "character": "⻌",
+      "stroke": 3,
+      "order": 72
+    }
+  },
+  {
+    "kanji": {
+      "character": "起",
+      "stroke": 10
+    },
+    "radical": {
+      "character": "",
+      "stroke": 7,
+      "order": 191
+    }
+  },
+  {
+    "kanji": {
+      "character": "推",
+      "stroke": 11
+    },
+    "radical": {
+      "character": "⺘",
+      "stroke": 3,
+      "order": 77
+    }
+  },
+  {
+    "kanji": {
+      "character": "終",
+      "stroke": 11
+    },
+    "radical": {
+      "character": "",
+      "stroke": 6,
+      "order": 158
+    }
+  },
+  {
+    "kanji": {
+      "character": "帯",
+      "stroke": 10
+    },
+    "radical": {
+      "character": "⼱",
+      "stroke": 3,
+      "order": 59
+    }
+  }
+]
